@@ -1,0 +1,1 @@
+UPDATE ORDERS SET SHIPMODE = 'Standard Class' WHERE SHIPMODE = 'Unknown'
